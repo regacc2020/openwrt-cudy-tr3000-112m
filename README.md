@@ -11,6 +11,15 @@ full customization, to use the device in ways never envisioned.
 
 Sunshine!
 
+## From REG
+修改make 配置
+选择目标设备为
+
+Target System (MediaTek ARM)
+Subtarget (Filogic 8×0 (MT798x))
+Target Profile (Cudy TR3000 v1)
+
+
 ## Download
 
 Built firmware images are available for many architectures and come with a
